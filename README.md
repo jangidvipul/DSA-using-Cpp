@@ -24,4 +24,16 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/jangidvipul/DSA-using-Cpp/tree/master/0143-reorder-list) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jangidvipul/DSA-using-Cpp/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jangidvipul/DSA-using-Cpp/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jangidvipul/DSA-using-Cpp/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
